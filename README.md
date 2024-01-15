@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/870796/190517543-96f85ea2-55d0-4f3f-a1d6-18c926f8c8f5.png" data-canonical-src="https://user-images.githubusercontent.com/870796/190517543-96f85ea2-55d0-4f3f-a1d6-18c926f8c8f5.png" width="640" />
 
-# Detect and Map Objects of Interest from Drone Videos
+# Detect and Map Mosquito breeding sites from Drone Videos
 
 This project extracts the location of objects of interest from a drone video and plots them on a map. By combining the video with data from its flight log and a computer vision model trained on [Roboflow](https://roboflow.com), it demonstrates georeferencing a machine learning model's predictions to GPS coordinates and using them to visualize the location of detected solar panels on a map using [Mapbox](https://mapbox.com).
 
