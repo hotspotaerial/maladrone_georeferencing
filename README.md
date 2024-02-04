@@ -2,7 +2,7 @@
 
 # Detect and Map Mosquito breeding sites from Drone Videos
 
-This project extracts the location of objects of interest from a drone video and plots them on a map. By combining the video with data from its flight log and a computer vision model trained on [Maladrone](https://hotspotaerial.com), it demonstrates georeferencing a machine learning model's predictions to GPS coordinates and using them to visualize the location of detected breeding sites on a map using [Mapbox](https://mapbox.com).
+This project extracts the location of objects of interest from a drone video and plots them on a map. By combining the video with data from its flight log and a computer vision model trained on [Maladrone](https://wwww.hotspotaerial.com), it demonstrates georeferencing a machine learning model's predictions to GPS coordinates and using them to visualize the location of detected breeding sites on a map using [Mapbox](https://mapbox.com).
 
 https://user-images.githubusercontent.com/870796/189461690-122f4e64-a66e-40f0-ac4b-68258a8abe7e.mov
 https://user-images.githubusercontent.com/870796/189461690-122f4e64-a66e-40f0-ac4b-68258a8abe7e.mov
