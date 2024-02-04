@@ -4,9 +4,6 @@
 
 This project extracts the location of objects of interest from a drone video and plots them on a map. By combining the video with data from its flight log and a computer vision model trained on [Maladrone](https://www.hotspotaerial.com/), it demonstrates georeferencing a machine learning model's predictions to GPS coordinates and using them to visualize the location of detected breeding sites on a map using [Mapbox](https://mapbox.com).
 
-https://user-images.githubusercontent.com/870796/189461690-122f4e64-a66e-40f0-ac4b-68258a8abe7e.mov
-https://user-images.githubusercontent.com/870796/189461690-122f4e64-a66e-40f0-ac4b-68258a8abe7e.mov
-
 ## Try It in Your Browser
 
 The project is [deployed to Github Pages here](https://hotspotaerial.github.io/maladrone-georeferencing/) and you can test it out with [this sample video and flight log](https://drive.google.com/drive/folders/1m0lmYyLEQJiaykf821rYtyRvlO5Q_SAf).
