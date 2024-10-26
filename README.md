@@ -12,7 +12,7 @@ If you have your own Drone video you'd like to use, [follow the instructions in 
 
 ## Resources
 
-* Accompanying Blog Post: [Georeferencing Breeding sites in Drone Videos](https://hotspotaerial.com)
+* Accompanying Blog Post: [Georeferencing Breeding sites in Drone Videos](https://www.hotspotaerial.com/blogs/post/Drone-technology-and-AI-Practicalizing-Larval-Source-Management)
 
 ## Run It Locally
 
