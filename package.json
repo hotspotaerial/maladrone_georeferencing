@@ -29,16 +29,22 @@
     },
     "homepage": "https://github.com/roboflow/dji-aerial-georeferencing#readme",
     "devDependencies": {
+        "@turf/distance": "^7.1.0",
+        "@turf/helpers": "^7.1.0",
+        "@turf/rhumb-destination": "^7.1.0",
         "autoprefixer": "^10.4.8",
         "clean-webpack-plugin": "^3.0.0",
         "cross-env": "^7.0.3",
-        "css-loader": "^6.9.0",
+        "css-loader": "^6.11.0",
         "css-minimizer-webpack-plugin": "^3.4.1",
         "handlebars": "^4.7.6",
         "handlebars-loader": "^1.7.3",
         "html-webpack-plugin": "^5.3.1",
         "html-webpack-tags-plugin": "^3.0.0",
+        "jquery": "^3.7.1",
+        "mapbox-gl": "^3.7.0",
         "mini-css-extract-plugin": "^1.6.0",
+        "papaparse": "^5.4.1",
         "postcss": "^8.4.33",
         "postcss-cli": "^11.0.0",
         "postcss-import": "^14.0.0",
@@ -51,14 +57,8 @@
         "webpack-livereload-plugin": "^3.0.1"
     },
     "dependencies": {
-        "@turf/distance": "^6.5.0",
-        "@turf/helpers": "^6.5.0",
-        "@turf/rhumb-destination": "^6.5.0",
         "@turf/transform-rotate": "^6.5.0",
         "buffer": "^6.0.3",
-        "jquery": "^3.6.1",
-        "mapbox-gl": "^2.10.0",
-        "papaparse": "^5.3.2",
         "process": "^0.11.10",
         "stream-browserify": "^3.0.0"
     }
